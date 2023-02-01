@@ -1,5 +1,8 @@
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=domi725&label=Profile%20views&color=0e75b6&style=flat" alt="domi725" /> </p>
 <h3 align="center">Hi there I'm Domi 👋</h3>
 
+<p align="center"><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a></p>
 <h2 align="center">
 In my spare time I am engaged in Django Full-Stack Web Development and Python programs. 💻
 </h2> 
@@ -28,7 +31,8 @@ In my spare time I am engaged in Django Full-Stack Web Development and Python pr
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-                  
+                 
+
 
 <!--
 **Domi725/Domi725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
