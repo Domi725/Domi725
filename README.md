@@ -16,6 +16,7 @@ In my spare time I am engaged in Django Full-Stack Web Development and Python pr
 ## 🌱 I'm currently learning
 - Django
 - Vue.js
+- Unit Tests
 
 ##
                   
@@ -32,8 +33,6 @@ In my spare time I am engaged in Django Full-Stack Web Development and Python pr
 ![](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
                  
-
-
 <!--
 **Domi725/Domi725** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
