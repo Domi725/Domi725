@@ -11,7 +11,7 @@ In my spare time I am engaged in Django Full-Stack Web Development and Python pr
 
 - Django Ecommerce website
 - Python NLP project
-- Vue.js backend
+- Vue.js 
 
 ## 🌱 I'm currently learning
 - Django
