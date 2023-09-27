@@ -10,12 +10,9 @@ In my spare time I am engaged in Django Full-Stack Web Development and Python pr
 ## 🔭 I'm currently working on
 
 - Django Ecommerce website
-- Python NLP project
-- Vue.js 
 
 ## 🌱 I'm currently learning
 - Django
-- Vue.js
 - Unit Tests
 
 ##
